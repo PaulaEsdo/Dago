@@ -26,7 +26,7 @@ Tipo/Género:
 
 ![](img-nobody.png)
 
-Noa Williams es una chica de 26 años que vive en Chicago sola y trabaja para la NASA. Fecha de nacimiento: 17 de septiembre del año 2382.. Noa es criada por sus tíos, Mery Williams y Roger Williams, porque su madre falleció en una misión intergaláctica y para honrar su memoria Noa consigue trabajar de astronauta. En su primera misión viaja con sus compañeros al planeta Dago, ya que la Tierra está viviendo un grave problema, y necesitan una fuente de energía externa para salvar el planeta. 
+Noa Williams es una chica de 26 años que vive en Chicago sola y trabaja para la NASA. Fecha de nacimiento: 17 de septiembre del año 2382.. Noa es criada por sus tíos, Mery Williams y Roger Williams, ta que  su madre falleció en una misión intergaláctica y para honrar su memoria Noa consigue trabajar de astronauta. En su primera misión viaja con sus compañeros al planeta Dago, ya que la Tierra está viviendo un grave problema, y necesitan una fuente de energía externa para salvar el planeta. 
 Aficiones: Le gusta pasear a su mascota en el parque de al lado de casa, tomar café mientras lee su libro favorito en su cafetería de confianza, así como salir con Kyle y Sam, sus amigos de la Universidad. Vive sola y le gusta pasar tiempo consigo misma. Hacer deporte en casa. 
 
 Personalidad: Solitaria, aventurera, 

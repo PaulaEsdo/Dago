@@ -30,7 +30,7 @@ Tipo/Género:
 
 ![](img-nobody.png)
 
-Nombre: 
+Nombre: Noa Williams
 
 
 ### Historia:

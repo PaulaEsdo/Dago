@@ -36,10 +36,12 @@ Nombre:
 ### Historia
 
 
-### Contexto
+### Contexto: Año 2408, la Tierra está en peligro debido al acercamiento orbital de la Tierra al Sol, los habitantes de la Tierra han desarrollado una avanzada tecnología para frenar y recular este acercamiento, pero necesitan una fuente mayor de poder que no existe en la Tierra, debido a ello exploran nuevos planetas para encontrar esa fuente. 
 
 
-### Conflicto 
+
+### Conflicto: Noa y su equipo toman el Zahurak, la fuente de energía de Dago, con el objetivo de usarla para poder mover la tierra de su órbita y así alejarse del sol. Por ello los dagorianos invaden la tierra para buscar el mineral. 
+
 
 
 

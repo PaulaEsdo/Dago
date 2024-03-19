@@ -50,12 +50,7 @@ Noa y su equipo toman el Zahurak, la fuente de energía de Dago, con el objetivo
 ### Productos
 
 - Personaje: (img personaje y enlace a interactivo) 
-
-
-- Banner/Teaser:  (enlace) 
-
-
-- Storytelling: (enlace) 
+-Quiz: Encuentra la palabra. https://h5p.org/node/1479673?feed_me=nps
 
 
 
